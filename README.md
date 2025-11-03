@@ -1,3 +1,3 @@
 # flutter-rizqinurulita-uts
 
-![lib](uts_rizqinurulita/lib)
+![tampilan-profil](flutter-rizqinurulita-uts/tampilan-profil)
